@@ -17,7 +17,7 @@ Certain ZMK features require knowing the exact key positions in the matrix. They
 
 ### Build firmware
 
-1. Push a commit to trigger the build.
+1. Push a commit to trigger the build. [X]
 2. Download the artifact.
 
 ## Building the Firmware in a local container
